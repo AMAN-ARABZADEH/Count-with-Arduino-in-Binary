@@ -1,4 +1,4 @@
-# Count-with-Arduino-in-Binary
+# Count-with-Arduino-in-Binary-From-0-To-15
 
 You are going to need the following for this project. 
 
