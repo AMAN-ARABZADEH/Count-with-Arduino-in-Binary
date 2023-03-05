@@ -17,6 +17,11 @@ The circuit diagram is included in the repository to show how to connect the LED
 and resistors to the Arduino Uno board using a breadboard.
 
 
+sources:
+https://reference.arduino.cc/reference/en/language/functions/bits-and-bytes/bitread/
+https://www.tinkercad.com/
+https://www.arduino.cc/
+
 
 
 https://user-images.githubusercontent.com/60558994/222977435-a876af17-e2e7-4706-b882-35b8f2a8bc30.mp4
